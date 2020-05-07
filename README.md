@@ -1,4 +1,4 @@
-# 8Tiles-Puzzle-Game-in-Artificial-Intelligence
+# 8-Puzzle-Game-in-Artificial-Intelligence
 
 
 Run:
