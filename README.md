@@ -1,4 +1,4 @@
-# 8-Puzzle-Game-in-Artificial-Intelligence
+# 9Tiles-Puzzle-Game-in-Artificial-Intelligence
 
 
 Run:
